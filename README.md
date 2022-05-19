@@ -4,17 +4,17 @@ Um Software Administrativo para Bibliotecas
 # Loading
 
 <img src="https://github.com/AlexandreJusten/OwlLibrary/blob/main/img_Readme/Loading2.png" min-width="400px" max-width="600px" width="600px" align="left" alt="Computador iuriCode">
-<br />
+<br/>
 
 # Login
 
 <img src="https://github.com/AlexandreJusten/OwlLibrary/blob/main/img_Readme/Login.png" min-width="400px" max-width="600px" width="600px" align="left" alt="Computador iuriCode">
-<br />
+<br/>
 
 # Main
 
 <img src="https://github.com/AlexandreJusten/OwlLibrary/blob/main/img_Readme/main.png" min-width="400px" max-width="600px" width="600px" align="left" alt="Computador iuriCode">
-<br />
+<br/>
 
 # OpenBook
 
